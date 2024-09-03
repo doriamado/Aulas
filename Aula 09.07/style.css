@@ -1,0 +1,303 @@
+.bandeira{
+    width: 600px;
+    height: 420px;
+    border: 1px solid black;
+    display: block;
+    margin: 10px;
+}
+
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+
+.lin3{
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+
+
+
+.corAzul{
+    background-color:blue;
+}
+
+.corBranca{
+    background-color:white;
+}
+
+.corVermelha{
+    background-color:red;
+}
+
+.corVermelha2{
+    background-color:crimson;
+}
+
+.corAmarela{
+    background-color: yellow;
+}
+
+.corCiano{
+    background-color:cadetblue;
+}
+
+.corAzulforte{
+    background-color: darkblue;
+}
+
+.bola{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 200px;
+    margin-top: 110px;
+    position: absolute;
+    z-index: 90;
+}
+
+.bandeiraquadrada{
+    width: 400px;
+    height: 400px;
+    display: block;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.suicaV{
+height: 250px;
+width: 75px;
+position: relative;
+top: 75px;
+left: 162.5px;
+}
+
+.suicaH{
+    width: 250px;
+    height: 75px;
+    position: relative;
+    top: -95px;
+    left: 75px;
+}
+
+.faixaV{
+    width: 85px;
+    height: 420px;
+    display: block;
+    position: relative;
+    top: -0px;
+    left: 155px;
+}
+
+.faixaH{
+    width: 600px;
+    height: 70px;
+    display: block;
+    position: relative;
+    top: -245px;    
+}
+
+.faixaV2{
+    width: 115px;
+    height: 430px;
+    display: block;
+    position: relative;
+    top: -0px;
+    left: 155px;   
+}
+
+.faixaH2{
+    width: 600px;
+    height: 95px;
+    display: block;
+    position: relative;
+    top: -245px;    
+}
+
+.faixaV3{
+    width: 60px;
+    height: 420px;
+    display: block;
+    position: relative;
+    top: -525px;
+    left: 181px;    
+}
+
+.faixaH3{
+    width: 600px;
+    height: 50px;
+    display: block;
+    position: relative;
+    top: -740px; 
+}
+
+.corAmareloqueimado{
+    background-color: gold;
+}
+
+.corVerdeescuro{
+    background-color: darkgreen;
+}
+
+img{
+    width: 225px;
+    height: 200px;
+    display: block;
+    position: relative;
+    left: -110px;
+    top: 130px;
+}
+
+.triangulopradireita{
+    width: 0px; 
+    height: 0px; 
+    display: block;
+    border-top: 110px solid transparent;
+    border-bottom: 270px solid transparent;
+    border-left:300px solid darkblue;
+    position: relative;
+    z-index: 999;
+    top: 70px;
+  }
+
+
+.horizontal{
+    width: 600px;
+    height: 230px;
+    display: block;
+    position: relative;
+    top: -190px;
+}
+
+
+.corAzulciano{
+    background-color:darkcyan;
+}
+
+
+#sanmarino{
+    width: 600px;
+    height: 420px;
+    border: 1px solid black;
+    display: block;
+    margin: 10px;
+}
+
+.lin32{
+    width: 600px;
+    height: 200px;
+    display: block;
+    position: relative;
+    top: 220px;
+}
+#sanmarino2{
+    width: 225px;
+    height: 200px;
+    display: block;
+    position:relative;
+    left: 170px;
+    top: -100px;
+}
+
+#senegal{
+    width: 100px;
+    height: 100px;
+    display: block;
+    position:relative;
+    left: 250px;
+    top: -255px;
+    
+}
+
+#tunisia{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position:relative;
+    left: 180px;
+    top: 105px;   
+}
+
+#mexico{
+    width: 120px;
+    height: 120px;
+    display: block;
+    position:relative;
+    left: 235px;
+    top: -250px;   
+}
+
+#quadradinho{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+background-color:darkblue;
+}
+
+#linha{
+    width: 600px;
+    height: 100px;
+    display: block;
+    float: left;
+    background-color: red;
+    position: relative;
+    top: 100px;
+}
+
+#linhaa{
+    width: 600px;
+    height: 100px;
+    display: block;
+    float: left;
+    background-color: red;
+    position: relative;
+    top: 220px;
+}
+
+#triangulo{
+    width: 0;
+    height: 0;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-bottom: 130px solid white;
+    position: relative;
+    top: -170px;
+    left: 5px;
+}
+
+
+#hongkong{
+    width: 405px;
+    height: 390px;
+    display: block;
+    position:relative;
+    left: 90px;
+    top:10px;   
+}
+
+#linhaaa{
+    width: 600px;
+    height: 100px;
+    display: block;
+    float: left;
+    background-color: red;
+    position: relative;
+    top: 0px;
+}
+
+#espanha{
+    width: 160px;
+    height: 160px;
+    display: block;
+    position:relative;
+    left: 130px;
+    top: -80px;   
+
+}

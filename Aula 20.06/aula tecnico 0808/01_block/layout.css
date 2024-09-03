@@ -1,0 +1,248 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+/*ESTRUTURA*/
+
+header{
+    width: 100%;
+    height: 400px;
+    display: block;
+    float: left;
+    background-image: url(https://cidadeverde.com/assets/uploads/noticias/7ae523800f5ce951d40c7decd30d74ce.jpg);
+    background-repeat: no-repeat;
+    background-size:45% 400px;
+    background-position: 46%;
+    margin-top: 20px;
+   
+}
+
+
+
+main{
+    width: 100%;
+    height: 1100px;
+    display: block;
+    float: left;
+    background-color: rgb(245, 240, 240);
+}
+
+footer{
+    width: 100%;
+    height:30%;
+    display: block;
+    float: left;
+    background-color: rgb(221, 218, 218);
+}
+
+
+
+/*CONFIGURAÇÕES*/
+
+footer section{
+    width: 33.3%;
+    height: 700px;
+    display: block;
+    float: left;
+    
+
+}
+
+footer section:first-child{
+    display: block;
+    width: 10px;
+    height: 5px;
+
+
+}
+
+
+
+header h1{
+    font-size: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    float: left;
+    
+    margin-left: 335px;
+    margin-top: -10px;
+    
+}
+
+
+ header img{
+    display: block;
+    width: 370px;
+    height: 370px;
+    margin-left: 60%;
+    margin-top: 3%;
+    
+}
+
+
+main h2{
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+main p{
+ display: block;
+ margin-left:10%;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ margin-top: 8px;
+ width: 80%;
+}
+
+main #paragrafo{
+    display: block;
+    margin-left:10%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    width: 80%; 
+}
+
+
+main img{
+    display: block;
+    width: 66%;
+    height: 55%;
+    margin-left: 10%;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+
+span{
+    border: solid 1px black;
+    width: 91%;
+    display: block;
+    margin-left: 6%;
+    margin-top: 2%;
+    
+}
+
+footer h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: block;
+    margin-left: 6%;
+    margin-top: 5%;
+    clear: both;
+}
+
+footer img{
+ display: block;
+ width: 355px;
+ height: 240px;
+ margin-left: 17%;
+ margin-top: 10%;
+
+ border-radius: 10px;
+}
+
+footer #judo{
+    display: block;
+    width: 60px;
+    height: 35px;
+    background-color: rgb(187, 187, 187);
+    margin-left: 16%;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 0px solid  rgb(187, 187, 187);
+    clear: both;
+    text-align: center;
+    
+}
+
+footer span #judoo{
+  display: block;
+  margin-left: 12px;
+  margin-top: 5px;
+  opacity: 85%;
+
+}
+
+footer #judooo{
+    display: block;
+    margin-left: 16%;
+    margin-top: 15px;
+    
+}
+
+footer #canoagem{
+    display: block;
+  margin-left: 10px;
+  margin-top: 5px;
+  opacity: 85%;
+  clear: both;
+  
+}
+
+footer #canoagembloco{
+    display: block;
+    width: 175px;
+    height: 40px;
+    background-color: rgb(187, 187, 187);
+    margin-left: 65px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 0px solid  rgb(187, 187, 187); 
+    float: left;
+    text-align: center;
+}
+
+
+
+
+footer #canoagemimagem{
+    display: block;
+ width: 360px;
+ height: 240px;
+ margin-left: 65px;
+ margin-top: 45px;
+
+ border-radius: 10px;
+}
+
+footer #canoagemtitulo{
+    display: block;
+    margin-left: 65px;
+    font-size: 150%;
+    margin-top: 15%;
+    
+}
+
+footer #voleibloco{
+    display: block;
+    width: 60px;
+    height: 35px;
+    background-color: rgb(187, 187, 187);
+    margin-left: 12%;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 0px solid  rgb(187, 187, 187);
+    clear: both;
+    text-align: center; 
+}
+
+footer #voleiimagem{
+    display: block;
+ width: 360px;
+ height: 240px;
+ margin-left: 55px;
+ margin-top: 45px;
+
+ border-radius: 10px;
+}
+
+
+footer #voleititulo{
+    display: block;
+    margin-left: 55px;
+    font-size: 150%;
+    margin-top: 3%;
+    
+}
